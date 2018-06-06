@@ -1,20 +1,20 @@
 {
-  "name": "flex-css",
+  "name": "flexycss",
   "version": "1.0.0",
   "description": "CSS Flexbox Library which exposes prebuilt classes related to flex containers and a grid system using flex.",
   "main": "null",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/DhyeyMoliya/flex-css.git"
+    "url": "https://github.com/DhyeyMoliya/flexycss.git"
   },
   "keywords": ["flex", "css", "flexbox", "grid"],
   "author": "Dhyey Moliya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DhyeyMoliya/flex-css/issues"
+    "url": "https://github.com/DhyeyMoliya/flexycss/issues"
   },
-  "homepage": "https://github.com/DhyeyMoliya/flex-css#readme",
+  "homepage": "https://github.com/DhyeyMoliya/flexycss#readme",
   "devDependencies": {
     "sass": "^1.5.1"
   }

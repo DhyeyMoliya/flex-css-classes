@@ -6,7 +6,7 @@ One Paragraph of project description goes here
 
 Run following command to install library using NPM:
 
-``npm install flex-css``
+``npm install flexycss``
 
 ## Usage
 
@@ -19,22 +19,22 @@ Import / Link the library file by referring to the node_modules folder
 ### For **CSS** library :
 
 ```
-@import ./node_modules/flex-css/css/flex.css
+@import ./node_modules/flexycss/css/flex.css
 
 or
 
-<link rel="stylesheet" href="node_modules/flex-css/css/flex.css" />
+<link rel="stylesheet" href="node_modules/flexycss/css/flex.css" />
 ```
 
 ### For **SCSS** Library :
 
 ```
-@import ./node_modules/flex-css/scss/flex.scss
+@import ./node_modules/flexycss/scss/flex.scss
 ```
 
 ## Demo and Library Description
 
-Run ``demo.html`` file from ``node_modules/flex-css`` folder in your local browser to see a demo having examples and description of the library.
+Run ``demo.html`` file from ``node_modules/flexycss`` folder in your local browser to see a demo having examples and description of the library.
 
 ## License
 
