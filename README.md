@@ -1,12 +1,12 @@
-# Project Title
+# Flex CSS Classes
 
-One Paragraph of project description goes here
+This library provides basic CSS classes for using Flexbox features like Flex row, Flex Column, properties like grow, alignments and more.
 
 ## Installation
 
 Run following command to install library using NPM:
 
-``npm install flexycss``
+``npm install flex-css-classes``
 
 ## Usage
 
@@ -19,22 +19,22 @@ Import / Link the library file by referring to the node_modules folder
 ### For **CSS** library :
 
 ```
-@import ./node_modules/flexycss/css/flex.css
+@import ./node_modules/flex-css-classes/css/flex.css
 
 or
 
-<link rel="stylesheet" href="node_modules/flexycss/css/flex.css" />
+<link rel="stylesheet" href="node_modules/flex-css-classes/css/flex.css" />
 ```
 
 ### For **SCSS** Library :
 
 ```
-@import ./node_modules/flexycss/scss/flex.scss
+@import ./node_modules/flex-css-classes/scss/flex.scss
 ```
 
 ## Demo and Library Description
 
-Run ``demo.html`` file from ``node_modules/flexycss`` folder in your local browser to see a demo having examples and description of the library.
+Run ``demo.html`` file from ``node_modules/flex-css-classes`` folder in your local browser to see a demo having examples and description of the library.
 
 ## License
 
