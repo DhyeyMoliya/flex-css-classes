@@ -35,3 +35,7 @@ or
 ## Demo and Library Description
 
 Run ``demo.html`` file from ``node_modules/flexcss`` folder in your local browser to see a demo having examples and description of the library.
+
+## License
+
+This project is licensed under the ISC License.
