@@ -35,18 +35,18 @@ p {
 .height-50 {
   height: 50%; }
 
-.item.demo-item {
+.flex-item.demo-item {
   padding: 5px;
   transition: all 0.1s ease-in;
   display: flex; }
-  .item.demo-item:hover .content {
+  .flex-item.demo-item:hover .content {
     box-shadow: 0 1px 2px 2px #dfdfdf; }
-  .item.demo-item.fixed {
+  .flex-item.demo-item.fixed {
     height: 90px;
     width: 90px; }
-  .item.demo-item.demo-hover-grow:hover:not(.nogrow) {
+  .flex-item.demo-item.demo-hover-grow:hover:not(.nogrow) {
     flex-grow: 1; }
-  .item.demo-item .content {
+  .flex-item.demo-item .content {
     flex-grow: 1;
     transition: all 0.1s ease-in;
     background-color: rgba(1, 87, 155, 0.13);
@@ -56,17 +56,17 @@ p {
     padding: 0.2em 0.5em;
     text-align: center; }
 
-.row.demo-fixed {
+.flex-row.demo-fixed {
   height: 300px; }
 
-.row.demo-fixed-items .item {
+.flex-row.demo-fixed-items .flex-item {
   height: 90px;
   width: 90px; }
 
-.column.demo-fixed {
+.flex-column.demo-fixed {
   height: 500px; }
 
-.column.demo-fixed-items .item {
+.flex-column.demo-fixed-items .flex-item {
   height: 90px;
   width: 90px; }
 
